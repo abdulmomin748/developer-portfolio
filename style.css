@@ -126,7 +126,7 @@ header.header {
 .banner-sec{
     background-image: url(images/hm-banner-bg-2.jpg);
     background-repeat: no-repeat;
-    min-height: 850px;
+    height: 100vh;
     position: relative;
     display: flex;
     justify-content: center;
